@@ -104,7 +104,7 @@ Jika Anda ingin mengunggah ke Raspberry Pi Pico asli:
 2.  Flash firmware **MicroPython** terbaru ke dalam Raspberry Pi Pico Anda.
 3.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/liwiryaym/raspberry-pi-pico-led-controller.git](https://github.com/liwiryaym/raspberry-pi-pico-led-controller.git)
+    git clone https://github.com/liwiryaym/raspberry-pi-pico-led-controller.git
     ```
 4.  Buka file `main.py` menggunakan Thonny IDE.
 5.  Sambungkan Pico ke komputer, lalu klik **Run** atau simpan file tersebut sebagai `main.py` di dalam Pico agar berjalan otomatis saat dinyalakan.
